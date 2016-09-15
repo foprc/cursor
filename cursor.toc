@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: cursor
+## Author: foprc (github.com/foprc)
+## Notes: Adds custom effects to your cursor
+
+## Version: 0.0.1
+cursor.xml
+main.lua
